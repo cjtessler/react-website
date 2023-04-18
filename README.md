@@ -1,3 +1,3 @@
 # README
 
-Link to screencast: 
+Link to screencast: [URL to screencast]
